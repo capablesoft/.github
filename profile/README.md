@@ -6,8 +6,10 @@ With our focus on intuitive user experiences, scalable technology, and flexible 
 
 Join us in empowering businesses to achieve their full potential and make a lasting positive impact. Let's get things done faster and better together!
 
-[Website →](https://www.gocapable.com)
+[🌎 Website →](https://www.gocapable.com)
 
-[Atlassian Marketplace →](https://marketplace.atlassian.com/vendors/1223389)
+[🛍️ Atlassian Marketplace →](https://marketplace.atlassian.com/vendors/1223389)
 
-[LinkedIn →](https://www.linkedin.com/company/gocapable)
+[💼 LinkedIn →](https://www.linkedin.com/company/gocapable)
+
+[📚 Documentation →](https://help.gocapable.com)
