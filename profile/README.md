@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+[![Banner](./banner-2.png)](https://www.gocapable.com)
 
 Welcome to Capable, where we redefine product development for a brighter future.
 
