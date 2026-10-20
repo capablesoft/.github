@@ -21,3 +21,6 @@ reviews:
     enabled: true
     drafts: false
     auto_incremental_review: true
+    # The default (5) pauses automatic review after five reviewed commits, which
+    # would leave later pushes unreviewed and the pull request unapproved.
+    auto_pause_after_reviewed_commits: 0
