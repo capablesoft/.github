@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+#
+# CodeRabbit configuration.
+#
+# Read from the BASE branch of a pull request, so it only governs pull requests
+# opened after it is on `main`.
+#
+# `request_changes_workflow` makes CodeRabbit submit Request Changes on
+# actionable comments and an approving review once they are resolved. This
+# organisation has a single member, so CodeRabbit is the reviewer whose approval
+# satisfies the "approved before merge" requirement on `main`.
+language: en-GB
+
+reviews:
+  request_changes_workflow: true
+  high_level_summary: true
+  review_status: true
+  poem: false
+
+  auto_review:
+    enabled: true
+    drafts: false
+    auto_incremental_review: true
